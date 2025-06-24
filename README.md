@@ -50,8 +50,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 **Email:** ranjithkumar@example.com *(update this!)*
-- 🔗 **LinkedIn:** [linkedin.com/in/ranjithg123](https://linkedin.com/in/ranjithg123)
+- 📧 **Email:** ranjithgopal984@gmail.com 
 - 🌐 **Portfolio / Blog:** Coming Soon...
 
 ---
